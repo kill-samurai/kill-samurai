@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Luis, however, I go by kill_samurai on the net.
+👋 Hi, my name is Luis, however, I go by kill_samurai on the net.
 
 I'm a technical support engineer, I love helping people and I like learning about any technologies.
 
